@@ -1,0 +1,169 @@
+nav {
+    background-color: white;
+    font-family: 'Fresca', sans-serif;
+    font-size: large;
+    position: fixed;
+    top: 1px;
+    width: 99%;
+    height: 120px;
+}
+
+.logo-arriba {
+    margin-left: 100px;
+}
+
+.carousel-header{
+    height: 500px;
+}
+
+.Lista-Nav{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.Carrito{
+    margin-right: 50px;
+}
+
+.Section1{
+    background-color: white;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.Card1 {
+    height: 100px;
+    width: 300px;
+    margin-top: 10px;
+    border: 3px solid black;
+    color: black;
+    text-align: center;
+    background-color: yellow;
+    font-family: 'Fresca', sans-serif;
+    font-size: large;
+}
+
+h1{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Fresca', sans-serif;
+    font-size: large;
+}
+
+.Productos1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;    
+}
+
+.Card2{
+    height: 410px;
+    width: 206px;
+    border: 3px solid rgb(68, 160, 68);;
+    color: black;
+    text-align: center;
+    font-family: 'Fresca', sans-serif;
+    font-size: 20px;
+}
+
+.BotonCard2 {
+    text-align: center;
+}
+
+
+.Productos2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;    
+}
+
+.Card3{
+    height: 410px;
+    width: 206px;
+    border: 3px solid rgb(68, 160, 68);;
+    color: black;
+    text-align: center;
+    font-family: 'Fresca', sans-serif;
+    font-size: large;
+}
+
+.BotonCard3 {
+    text-align: center;
+}   
+
+
+.Boton-Productos{
+    text-align: center;
+    height: 50px;
+    width: 150px;
+    margin-left: 45%;
+    text-align: center;
+    font-family: 'Fresca', sans-serif;
+    color: black;
+    font-size: 24px;
+    
+}
+
+h2{
+    text-align: center;
+    border: black;
+    font-family: 'Fresca', sans-serif;
+    font-size: large;
+}
+   
+.ListaCategorias{
+    background-color: white;
+    font-family: 'Fresca', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-left: 175px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+
+.Categorias{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.Card4{
+    height: 360px;
+    width: 200px;
+    border: 3px solid rgb(68, 160, 68);
+    color: black;
+    text-align: center;
+    font-family: 'Fresca', sans-serif;
+    font-size: 20px;
+}
+
+
+
+.BotonCard4 {
+    text-align: center;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.Footer{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin-bottom: 50px;
+    font-family: 'Fresca', sans-serif;
+    font-size: large;
+}
+
+.Foto-Footer{
+    margin-top: 100px;
+    margin-left: 45%;
+}
