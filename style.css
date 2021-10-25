@@ -145,8 +145,6 @@ h2{
     font-size: 20px;
 }
 
-
-
 .BotonCard4 {
     text-align: center;
     background-repeat: no-repeat;
@@ -166,4 +164,26 @@ h2{
 .Foto-Footer{
     margin-top: 100px;
     margin-left: 45%;
+}
+
+@media(max-width: 768px){
+    .Productos1 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .Productos2 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .Boton-Productos {
+        align-items: center;
+    }
+    .Card1{
+        font-size: small;
+    }
+    .Categorias {
+        flex-direction: column;
+        align-items: center;
+    }
 }
